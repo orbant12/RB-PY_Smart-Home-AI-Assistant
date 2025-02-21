@@ -3,3 +3,7 @@ SpeechRecognition
 pyttsx3
 pyaudio
 python-dotenv
+playsound==1.2.2
+requests
+pytz
+pygame
