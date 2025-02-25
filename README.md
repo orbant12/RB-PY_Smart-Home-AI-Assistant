@@ -11,7 +11,7 @@ A smart home assistant that combines voice control, task management, and morning
 - Background music with smart volume control
 - Customizable voice personalities
 
-## Prerequisites
+## Prerequisites 
 
 ### Required API Keys
 - OpenAI API key
