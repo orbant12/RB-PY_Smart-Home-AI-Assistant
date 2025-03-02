@@ -16,7 +16,7 @@ A smart home assistant that combines voice control, task management, and morning
 ### Required API Keys
 - OpenAI API key 
 - Todoist API token
-
+ 
 ### Required Python Packages
 ```bash
 openai
